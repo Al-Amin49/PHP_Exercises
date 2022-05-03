@@ -1,0 +1,15 @@
+-First php
+-echoPrint
+- variables
+-dataTypes
+-ifElse
+-loops
+-switch
+-math
+-function
+-dates 
+-associative arrays
+-Multidimentsional arrays
+-GetPost
+-ConnectToMysql
+-mysqlCreateDb
