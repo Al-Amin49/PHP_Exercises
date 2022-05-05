@@ -7,7 +7,7 @@ $password="";
 $conn =mysqli_connect($servername,$username,$password);
 
 //Create a db
-$sql = "CREATE DATABASE university4";
+$sql = "CREATE DATABASE firstMysql";
 $result= mysqli_query($conn,$sql);
 
 //check for the database creation success

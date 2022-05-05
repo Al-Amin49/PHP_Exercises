@@ -13,3 +13,10 @@
 -GetPost
 -ConnectToMysql
 -mysqlCreateDb
+-createTable
+-insertDataMysql
+-formMysql
+-practiseForm
+-SelectAndDisplayingData
+-updatingRecord
+-DeletingRecord

@@ -12,7 +12,7 @@ Object-oriented-- class and object
 //Connecting to the database
 $servername="localhost";
 $username="root";
-$password=" ";
+$password="";
 
 //Creat a connection 
 $conn= mysqli_connect($servername,$username,$password);
